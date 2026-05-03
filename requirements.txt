@@ -1,0 +1,7 @@
+streamlit
+yfinance
+pandas
+pandas-datareader
+psycopg2-binary
+plotly
+python-dotenv
